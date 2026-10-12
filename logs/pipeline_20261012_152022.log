@@ -1,0 +1,6 @@
+2026-10-12 15:20:22 | INFO     | veri_pipeline | Pipeline baslatildi
+2026-10-12 15:20:22 | INFO     | veri_pipeline | Veri yuklendi: 9800 satir, 21 kolon
+2026-10-12 15:20:22 | WARNING  | veri_pipeline | Dikkat: Bu dataset Profit/Discount kolonlari icermiyor
+2026-10-12 15:20:22 | INFO     | veri_pipeline | Temizleme asamasi tamamlandi
+2026-10-12 15:20:22 | INFO     | veri_pipeline | Rapor olusturuldu: outputs/rapor.html
+2026-10-12 15:20:22 | INFO     | veri_pipeline | Pipeline basariyla tamamlandi
